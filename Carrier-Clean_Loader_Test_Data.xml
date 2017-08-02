@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mercurygate>
+<header>
+<version>100412</version>
+<extractDate>2017-06-13 16:59.18.838</extractDate>
+<extractedBy>
+<name>joby.perrappadan@mercurygate.com</name>
+<firstName>Joby</firstName>
+<lastName>Perrappadan</lastName>
+<emailAddress>joby.perrappadan@mercurygate.com</emailAddress>
+</extractedBy>
+<DocTypeID>Carrier</DocTypeID>
+</header>
+<carriers>
+<carrier>
+<locations>
+<location>
+<primaryContact/>
+<contacts/>
+<active>true</active>
+<addressLine1>2255, Randoc street</addressLine1>
+<addressLine2/>
+<city>Cary</city>
+<countryCode>USA</countryCode>
+<latitude>4000000</latitude>
+<locationCode>1279</locationCode>
+<longitude>5000000</longitude>
+<latitudeDecimal>4.000000</latitudeDecimal>
+<longitudeDecimal>5.000000</longitudeDecimal>
+<postalCode>3546</postalCode>
+<province>PC</province>
+<region>RC</region>
+<state>NV</state>
+<tenderProcess>
+<autoAccept>false</autoAccept>
+<earliestTenderTime/>
+<emailBody/>
+<emailFrom/>
+<emailTo/>
+<latestTenderTime/>
+<permitTenderRevoke>false</permitTenderRevoke>
+<proSequenceName/>
+<tenderTimeZone/>
+<holidayCalendar/>
+<type/>
+</tenderProcess>
+<statusCheckProcess>
+<emailFrom/>
+<emailSubject/>
+<emailTo/>
+<emailBody/>
+<enabled>false</enabled>
+</statusCheckProcess>
+<quoteProcess>
+<emailFrom/>
+<emailTo/>
+<emailBody/>
+<type>none</type>
+</quoteProcess>
+<carrierLocationReferences/>
+<type>Carrier</type>
+<name>Location CarrierName</name>
+</location>
+<location>
+<primaryContact/>
+<contacts>
+<contact>
+<firstName>First Name</firstName>
+<lastName>Last Name</lastName>
+<primaryEmail>
+<address>email@email.com</address>
+</primaryEmail>
+<primaryFax>
+<number>444.555.6666</number>
+</primaryFax>
+<primaryPhone>
+<number>111.222.3333</number>
+</primaryPhone>
+<secondaryPhone>
+<number>222.333.4444</number>
+</secondaryPhone>
+<title>Primary Contact</title>
+<type>Dispatch</type>
+<name>Last Name, First Name</name>
+<user>
+</user>
+</contact>
+</contacts>
+<active>true</active>
+<addressLine1>147, laneel driver</addressLine1>
+<addressLine2/>
+<city>sanford</city>
+<countryCode>USA</countryCode>
+<latitude>29457977</latitude>
+<locationCode>123456</locationCode>
+<longitude>-98493044</longitude>
+<latitudeDecimal>29.457977</latitudeDecimal>
+<longitudeDecimal>-98.493044</longitudeDecimal>
+<postalCode>782345</postalCode>
+<province/>
+<region>RC</region>
+<state>AL</state>
+<tenderProcess>
+<autoAccept>true</autoAccept>
+<earliestTenderTime>10:25 AM</earliestTenderTime>
+<emailBody>This is a Tender Process for locations tab.</emailBody>
+<emailFrom>Fracture@email.com</emailFrom>
+<emailTo>franko@email.com</emailTo>
+<latestTenderTime>10:30 PM</latestTenderTime>
+<permitTenderRevoke>true</permitTenderRevoke>
+<proSequenceName>PRO4587</proSequenceName>
+<tenderTimeZone>Eastern</tenderTimeZone>
+<holidayCalendar>HolidayCalendar2</holidayCalendar>
+<type>email</type>
+</tenderProcess>
+<statusCheckProcess>
+<emailFrom>jopseph@email.com</emailFrom>
+<emailSubject/>
+<emailTo>testing@email.com</emailTo>
+<emailBody>Status check Email body for Locations tab.</emailBody>
+<enabled>true</enabled>
+</statusCheckProcess>
+<quoteProcess>
+<emailFrom>Fromfranko@email.com</emailFrom>
+<emailTo>Tofranko@email.com</emailTo>
+<emailBody>Quote process Email body for Locations tab</emailBody>
+<type>Email</type>
+</quoteProcess>
+<carrierLocationReferences>
+<carrierLocationReference>
+<type>ITS</type>
+<value>51321</value>
+<description>Peoples Testing</description>
+</carrierLocationReference>
+</carrierLocationReferences>
+<type>Carrier</type>
+<name>testKomal</name>
+</location>
+</locations>
+<contacts>
+<contact>
+<firstName>First Name</firstName>
+<lastName>Last Name</lastName>
+<primaryEmail>
+<address>email@email.com</address>
+</primaryEmail>
+<primaryFax>
+<number>444.555.6666</number>
+</primaryFax>
+<primaryPhone>
+<number>111.222.3333</number>
+</primaryPhone>
+<secondaryPhone>
+<number>222.333.4444</number>
+</secondaryPhone>
+<title>Primary Contact</title>
+<type>Dispatch</type>
+<name>Last Name, First Name</name>
+<user>
+</user>
+</contact>
+</contacts>
+<equipments>
+<equipment>
+<category>VAN</category>
+<code>VA</code>
+<count>4</count>
+<size>24</size>
+<subCategory>R</subCategory>
+<type>DD</type>
+</equipment>
+<equipment>
+<category>P</category>
+<code>Truck</code>
+<count>0</count>
+<size/>
+<subCategory>T</subCategory>
+<type>DT</type>
+</equipment>
+</equipments>
+<active>true</active>
+<activities>
+<activity>
+<assignedTo/>
+<completedDate/>
+<name>123467</name>
+<notes/>
+<percentComplete>40</percentComplete>
+<plannedDate/>
+<priority/>
+<required>false</required>
+<status>C</status>
+<summary/>
+<type>CarrierUpade</type>
+</activity>
+<activity>
+<assignedTo/>
+<completedDate>2017-02-27 00:00</completedDate>
+<name>11</name>
+<notes/>
+<percentComplete>30</percentComplete>
+<plannedDate>2017-02-20 00:00</plannedDate>
+<priority/>
+<required>true</required>
+<status/>
+<summary/>
+<type>Test</type>
+</activity>
+<activity>
+<assignedTo/>
+<completedDate/>
+<name>0000719</name>
+<notes/>
+<percentComplete>0</percentComplete>
+<plannedDate/>
+<priority>L</priority>
+<required>true</required>
+<status>IP</status>
+<summary>test AT</summary>
+<type>N</type>
+</activity>
+</activities>
+<authority>
+<bipdNumber>7500000.00</bipdNumber>
+<brokerTypeCode>Active</brokerTypeCode>
+<commonTypeCode>Active</commonTypeCode>
+<contractTypeCode>Active</contractTypeCode>
+<hasBondOnFile>false</hasBondOnFile>
+<hasCargoOnFile>true</hasCargoOnFile>
+<hasPendingBroker>false</hasPendingBroker>
+<hasPendingCommon>true</hasPendingCommon>
+<hasPendingContract>true</hasPendingContract>
+<hasRevokedBroker>false</hasRevokedBroker>
+<hasRevokedCommon>true</hasRevokedCommon>
+<hasRevokedContract>true</hasRevokedContract>
+<international>false</international>
+<intraCanada>true</intraCanada>
+<intraMexico>false</intraMexico>
+<intrastate>true</intrastate>
+</authority>
+<brokerMCNumber>25874</brokerMCNumber>
+<carrierId>06132017</carrierId>
+<carrierMCNumber> 226688 Carrier ID	</carrierMCNumber>
+<certifications>
+<certification>
+<notes/>
+<type>AW</type>
+<value/>
+<name>D4</name>
+</certification>
+<certification>
+<notes/>
+<type>AW</type>
+<value/>
+<name>D4</name>
+</certification>
+</certifications>
+<communicationOptOut>true</communicationOptOut>
+<diverseSupplier>true</diverseSupplier>
+<diversityCertifications>
+<String>Other</String>
+<String>SBA</String>
+<String>FG</String>
+<String>SG</String>
+<String>WBENC</String>
+<String>NMSDC</String>
+</diversityCertifications>
+<diversityCertified>false</diversityCertified>
+<diversityNotes>Test</diversityNotes>
+<diversityTypes>
+<String>SDVCSB</String>
+<String>WO</String>
+<String>VOSB</String>
+<String>SB</String>
+</diversityTypes>
+<drivers>
+<driver>
+<name/>
+<active>true</active>
+<firstName>test2</firstName>
+<lastName>test2-567</lastName>
+<nickname>Manner</nickname>
+<driverType/>
+<driverId>567</driverId>
+<employeeNumber/>
+<gender/>
+<address1>258, Mawell Dr</address1>
+<address2/>
+<city>Durham</city>
+<countryCode>USA</countryCode>
+<postalCode>547825</postalCode>
+<state>DE</state>
+<email/>
+<mobilePhone>568-457-23658</mobilePhone>
+<homePhone>698-589-2357</homePhone>
+<emergencyPhone/>
+<status>Active</status>
+<statusReason/>
+<birthDate/>
+<hireDate/>
+<terminationDate/>
+<rehireOk>true</rehireOk>
+<domicile>GB</domicile>
+<assignedDivision/>
+<licenseCountry>USA</licenseCountry>
+<licenseState>North Carolina</licenseState>
+<licenseNumber>4578125HJY</licenseNumber>
+<licenseClass>Class A</licenseClass>
+<licenseIssueDate>2014-06-15 00:00</licenseIssueDate>
+<licenseExpirationDate>2023-06-13 00:00</licenseExpirationDate>
+<endoresements>
+<endorsement>P</endorsement>
+<endorsement>T</endorsement>
+<endorsement>X</endorsement>
+<endorsement>N</endorsement>
+</endoresements>
+<restrictions/>
+<citizen>US</citizen>
+<passportNumber>4578965</passportNumber>
+<passportCountry>USA</passportCountry>
+<passportExpiration>2020-06-15 00:00</passportExpiration>
+<visaNumber>56847JHYU</visaNumber>
+<visaCountry>USA</visaCountry>
+<visaExpiration>2020-06-22 00:00</visaExpiration>
+<greenCardNumber>558877JUI</greenCardNumber>
+<greenCardExpiration>2017-06-15 00:00</greenCardExpiration>
+<cabatoge>true</cabatoge>
+<operateInUS>true</operateInUS>
+<controlledSubstancesAlcoholBasicAlert>8</controlledSubstancesAlcoholBasicAlert>
+<controlledSubstancesAlcoholPercentile>8</controlledSubstancesAlcoholPercentile>
+<controlledSubstancesAlcoholRoadsideAlert>8</controlledSubstancesAlcoholRoadsideAlert>
+<controlledSubstancesAlcoholSeriousViolation>8</controlledSubstancesAlcoholSeriousViolation>
+<driverFitnessBasicAlert>7</driverFitnessBasicAlert>
+<driverFitnessPercentile>7</driverFitnessPercentile>
+<driverFitnessRoadsideAlert>7</driverFitnessRoadsideAlert>
+<driverFitnessSeriousViolation>7</driverFitnessSeriousViolation>
+<fatiguedDrivingBasicAlert>6</fatiguedDrivingBasicAlert>
+<fatiguedDrivingPercentile>6</fatiguedDrivingPercentile>
+<fatiguedDrivingRoadsideAlert>6</fatiguedDrivingRoadsideAlert>
+<fatiguedDrivingSeriousViolation>6</fatiguedDrivingSeriousViolation>
+<hazardousMaterialBasicAlert>3</hazardousMaterialBasicAlert>
+<hazardousMaterialPercentile>3</hazardousMaterialPercentile>
+<hazardousMaterialRoadsideAlert>3</hazardousMaterialRoadsideAlert>
+<hazardousMaterialSeriousViolation>3</hazardousMaterialSeriousViolation>
+<crashIndicatorBasicAlert>4</crashIndicatorBasicAlert>
+<crashIndicatorPercentile>4</crashIndicatorPercentile>
+<crashIndicatorRoadsideAlert>4</crashIndicatorRoadsideAlert>
+<crashIndicatorSeriousViolation>4</crashIndicatorSeriousViolation>
+<unsafeDrivingBasicAlert>5</unsafeDrivingBasicAlert>
+<unsafeDrivingPercentile>5</unsafeDrivingPercentile>
+<unsafeDrivingRoadsideAlert>5</unsafeDrivingRoadsideAlert>
+<unsafeDrivingSeriousViolation>5</unsafeDrivingSeriousViolation>
+<vehicleMaintenanceBasicAlert>9</vehicleMaintenanceBasicAlert>
+<vehicleMaintenancePercentile>9</vehicleMaintenancePercentile>
+<vehicleMaintenanceRoadsideAlert>9</vehicleMaintenanceRoadsideAlert>
+<vehicleMaintenanceSeriousViolation>9</vehicleMaintenanceSeriousViolation>
+<vehicleMilesTraveled/>
+<settlementFactorType/>
+<revenueFactor/>
+<driverFactor/>
+<driverFactorUOM/>
+<driverReferences>
+<driverReference>
+<type>OB</type>
+<value>TEST1</value>
+<description>Test</description>
+</driverReference>
+</driverReferences>
+<activities>
+<activity>
+<assignedTo/>
+<completedDate/>
+<name>258963</name>
+<notes/>
+<percentComplete>50</percentComplete>
+<plannedDate/>
+<priority/>
+<required>true</required>
+<status>IP</status>
+<summary>Test</summary>
+<type>Activity Type</type>
+</activity>
+<activity>
+<assignedTo/>
+<completedDate>2018-06-14 00:00</completedDate>
+<name>554</name>
+<notes>Test driver act</notes>
+<percentComplete>0</percentComplete>
+<plannedDate>2017-04-26 00:00</plannedDate>
+<priority>L</priority>
+<required>true</required>
+<status>IP</status>
+<summary>test Activity for Driver.</summary>
+<type>P</type>
+</activity>
+</activities>
+<certifications>
+<certification>
+<notes>Test</notes>
+<type>AW</type>
+<value>Tst</value>
+<name>D5</name>
+<ossItem>true</ossItem>
+<expirationDate>2019-04-11 00:00</expirationDate>
+<certificationDate>2017-04-19 00:00</certificationDate>
+</certification>
+<certification>
+<notes>Test</notes>
+<type>PE</type>
+<value>Test</value>
+<name>C3</name>
+<ossItem>true</ossItem>
+<expirationDate>2020-04-13 00:00</expirationDate>
+<certificationDate>2017-04-13 00:00</certificationDate>
+</certification>
+</certifications>
+<inspections>
+<inspection>
+<inspectionDate>2017-04-11 00:00</inspectionDate>
+<startTime>2017-04-11 00:15</startTime>
+<endTime>2017-04-11 04:30</endTime>
+<city>Cary</city>
+<state>NC</state>
+<country>USA</country>
+<inspectionNumber>1457HGY</inspectionNumber>
+<inspectionLevel/>
+<driverViolationCount>2</driverViolationCount>
+<driverOOSViolationCount>2</driverOOSViolationCount>
+<vehicleViolationCount>2</vehicleViolationCount>
+<vehicleOOSViolationCount>2</vehicleOOSViolationCount>
+<hazmatViolationCount>2</hazmatViolationCount>
+<hazmatOOSViolationCount>2</hazmatOOSViolationCount>
+<fmscaMatched>true</fmscaMatched>
+<roadAccident>true</roadAccident>
+<tractorId>2ndTest here</tractorId>
+<trailerId/>
+<secondTrailerId/>
+</inspection>
+<inspection>
+<inspectionDate>2017-04-13 00:00</inspectionDate>
+<startTime>2017-04-13 00:30</startTime>
+<endTime>2017-04-13 16:00</endTime>
+<city>Cary</city>
+<state>NC</state>
+<country>USA</country>
+<inspectionNumber>456789</inspectionNumber>
+<inspectionLevel/>
+<driverViolationCount>0</driverViolationCount>
+<driverOOSViolationCount>0</driverOOSViolationCount>
+<vehicleViolationCount>0</vehicleViolationCount>
+<vehicleOOSViolationCount>0</vehicleOOSViolationCount>
+<hazmatViolationCount>0</hazmatViolationCount>
+<hazmatOOSViolationCount>0</hazmatOOSViolationCount>
+<fmscaMatched>false</fmscaMatched>
+<roadAccident>false</roadAccident>
+<tractorId>2ndTest here</tractorId>
+<trailerId/>
+<secondTrailerId/>
+</inspection>
+</inspections>
+<violations>
+<violation>
+<violationDate>2017-04-10 00:00</violationDate>
+<equipmentId>1ABCD</equipmentId>
+<violationSection>171.3(b)(2)</violationSection>
+<equipmentPlate/>
+<equipmentVin/>
+<equipmentType>POWER_UNIT</equipmentType>
+<stateViolCode/>
+<oosViolation>true</oosViolation>
+<crash>true</crash>
+<citationIssued>true</citationIssued>
+<citationNumber>2547</citationNumber>
+<inspectionReportId>123</inspectionReportId>
+<country>USA</country>
+<state>VT</state>
+<violationGroup>documentation - hm</violationGroup>
+<violationDesc>Improper/no hazardous waste manifest</violationDesc>
+<violationPoints>0</violationPoints>
+<driverAssessedPts>N</driverAssessedPts>
+<internalGroup>0</internalGroup>
+</violation>
+</violations>
+<incidents>
+<incident>
+<incidentId>2424</incidentId>
+<incidentDate>2017-06-11 00:00</incidentDate>
+<city>Apex</city>
+<state>SC</state>
+<county>Wake</county>
+<country>USA</country>
+<towing>true</towing>
+<damage>true</damage>
+<injury>true</injury>
+<fatality>true</fatality>
+<citationIssued>true</citationIssued>
+<citationNumber>5875</citationNumber>
+<courtCaseNumber>65885</courtCaseNumber>
+<damageAmount>500.0</damageAmount>
+<dotReportable>true</dotReportable>
+<tractorId>2ndTest here</tractorId>
+<trailerId/>
+<description>Incident for Driver</description>
+<secondTrailerId/>
+</incident>
+<incident>
+<incidentId>5874</incidentId>
+<incidentDate>2017-06-01 00:00</incidentDate>
+<city>Cary</city>
+<state>NC</state>
+<county/>
+<country>USA</country>
+<towing>true</towing>
+<damage>true</damage>
+<injury>true</injury>
+<fatality>true</fatality>
+<citationIssued>true</citationIssued>
+<citationNumber/>
+<courtCaseNumber/>
+<damageAmount>0.0</damageAmount>
+<dotReportable>false</dotReportable>
+<tractorId>IUNIT</tractorId>
+<trailerId/>
+<description/>
+<secondTrailerId/>
+</incident>
+</incidents>
+<driverFactors>
+<driverFactor>
+<type>Test</type>
+<driverFactor>6.0</driverFactor>
+<factorUOM/>
+<fleetCode/>
+<settlementCode/>
+<revenueFactor>5.0</revenueFactor>
+<effectiveDate>2017-04-13 15:49</effectiveDate>
+</driverFactor>
+</driverFactors>
+</driver>
+</drivers>
+<dotNumber>5872677</dotNumber>
+<dunsNumber>2564</dunsNumber>
+<edi>
+<String>211</String>
+<String>990</String>
+<String>OT</String>
+</edi>
+<einNumber/>
+<financials>
+<acctCenterNum/>
+<balanceSheetDate>2017-02-15 00:00</balanceSheetDate>
+<brokerCreditApprovalDate>2017-02-28 00:00</brokerCreditApprovalDate>
+<businessName>Contratax</businessName>
+<businessStartDate>2017-03-07 00:00</businessStartDate>
+<businessType>Cotractor</businessType>
+<claimsAmtToRevenueRatio>35</claimsAmtToRevenueRatio>
+<claimsToShipRatio/>
+<classCode/>
+<comments>test comment</comments>
+<creditScore>2000</creditScore>
+<currency>EUR</currency>
+<dbNum/>
+<directDepositAcctNum>365874</directDepositAcctNum>
+<directDepositRoutingNum>5689</directDepositRoutingNum>
+<directDepositStartDate/>
+<disbursementMethod/>
+<discountLevel>Level 34</discountLevel>
+<discountProgramStartDate>2017-02-28 00:00</discountProgramStartDate>
+<etsClaimsNotes/>
+<factoringCoStartDate>2017-02-28 00:00</factoringCoStartDate>
+<federalIdNum/>
+<has1099>true</has1099>
+<hasDirectDeposit>true</hasDirectDeposit>
+<hasDiscountProgram>true</hasDiscountProgram>
+<hasEDI210To3PFP>true</hasEDI210To3PFP>
+<hasFactoringCompany>true</hasFactoringCompany>
+<incomeTaxName>Contratax</incomeTaxName>
+<irs1099Name/>
+<operatingRatio/>
+<opsRevenueAmt>45000</opsRevenueAmt>
+<opsRevenueDate>2017-02-28 00:00</opsRevenueDate>
+<paymentExtractTypes/>
+<paymentStatus>Cancelled</paymentStatus>
+<quickPay>false</quickPay>
+<remitAddr1/>
+<remitAddr2/>
+<remitCity/>
+<remitCountryCode>USA</remitCountryCode>
+<remitPayToName/>
+<remitState>NC</remitState>
+<remitZipCode>27609</remitZipCode>
+<reviewDate>2017-02-28 00:00</reviewDate>
+<reviewedBy>Mike</reviewedBy>
+<tradingStatus/>
+<tradingSymbol/>
+<w9Date>2017-02-28 00:00</w9Date>
+<w9Validated>true</w9Validated>
+<allowAdvances>true</allowAdvances>
+<advanceFlatMax>120,000,000.00</advanceFlatMax>
+<advancePercentMax>2500</advancePercentMax>
+<advanceFlatFee>1.000</advanceFlatFee>
+<advancePercentFee>1,0000</advancePercentFee>
+<advancePercentFeeMin/>
+<advancePercentFeeMax/>
+<foreignTaxId/>
+<foreignTaxIdType/>
+<taxFormType>Test2</taxFormType>
+</financials>
+<fleetEquipments>
+<fleetEquipment>
+<active>true</active>
+<type>POWER_UNIT</type>
+<subtype>TR2</subtype>
+<code/>
+<unitId>1ABCD</unitId>
+<legacyUnitId>254</legacyUnitId>
+<status>AE</status>
+<statusReason>NI</statusReason>
+<inServiceDate>2017-06-04 00:00</inServiceDate>
+<outOfServiceDate>2017-06-16 00:00</outOfServiceDate>
+<manufacturer>Mnu inc</manufacturer>
+<year>2004</year>
+<model>Base</model>
+<series>5421</series>
+<serialNumber>124587NHJ</serialNumber>
+<managerName/>
+<managerPhone/>
+<tareWeight>4500.0</tareWeight>
+<tareWeightUOM>POUNDS</tareWeightUOM>
+<grossVehicleWeight>5.0</grossVehicleWeight>
+<grossVehicleWeightUOM>POUNDS</grossVehicleWeightUOM>
+<internalDimLength>1.0</internalDimLength>
+<internalDimWidth>3.0</internalDimWidth>
+<internalDimHeight>5.0</internalDimHeight>
+<externalDimLength>7.0</externalDimLength>
+<externalDimWidth>9.0</externalDimWidth>
+<externalDimHeight>10.0</externalDimHeight>
+<internalDimLengthUOM/>
+<internalDimWidthUOM/>
+<internalDimHeightUOM/>
+<externalDimLengthUOM/>
+<externalDimWidthUOM/>
+<externalDimHeightUOM/>
+<doorType>RU</doorType>
+<doorWidth>5.0</doorWidth>
+<doorHeight>5.0</doorHeight>
+<doorHeightUOM>FEET</doorHeightUOM>
+<doorWidthUOM/>
+<bodyMaterial/>
+<deckHeight>5.0</deckHeight>
+<deckHeightUOM>INCHES</deckHeightUOM>
+<cube>4.0</cube>
+<cubeUOM>CUBICFEET</cubeUOM>
+<highMPG>35.0</highMPG>
+<lowMPG>10.0</lowMPG>
+<fuelType/>
+<specClass>FB3</specClass>
+<sleeper>true</sleeper>
+<bulkCompartmentCount>3</bulkCompartmentCount>
+<bulkCompartmentVolume>3.0</bulkCompartmentVolume>
+<bulkCompartmentUOM/>
+<referManufacturer>Manuadel Inc</referManufacturer>
+<referYear>2005</referYear>
+<referModel>Base</referModel>
+<referSeries>5214</referSeries>
+<referSeriesNumber>12457963KJMU</referSeriesNumber>
+<referCoolantType>C1</referCoolantType>
+<carbId>25</carbId>
+<truatcmId>35</truatcmId>
+<referTempMax>3.0</referTempMax>
+<referTempMin>5.0</referTempMin>
+<referTempUOM>Fahrenheit</referTempUOM>
+<referHours>5.0</referHours>
+<referHoursDate>2017-06-13 00:00</referHoursDate>
+<licensePlate>12547KJU</licensePlate>
+<regState>NC</regState>
+<regExpirationDate>2020-06-11 00:00</regExpirationDate>
+<titleState>NC</titleState>
+<titleNumber>214578</titleNumber>
+<iftaRequired>true</iftaRequired>
+<iftaDate>2017-06-15 00:00</iftaDate>
+<purchaseDate/>
+<purchaseValue/>
+<insuredValue/>
+<leaseProvider/>
+<leaseDate>2017-06-05 00:00</leaseDate>
+<leaseEnd>2019-06-13 00:00</leaseEnd>
+<leasePaymentAmount>5.0</leasePaymentAmount>
+<leasePaymentInterval>5</leasePaymentInterval>
+<components>
+<component>
+<warrentyExpiration>2027-04-26 00:00</warrentyExpiration>
+<manufacturer>Sony</manufacturer>
+<type>BC</type>
+<componentId>25874</componentId>
+<specification>Test</specification>
+</component>
+</components>
+<services>
+<service>
+<serviceId>254</serviceId>
+<purchaseOrderNumber/>
+<approvedBy>JOby</approvedBy>
+<invoiceNumber>124698</invoiceNumber>
+<serviceCost>3.0</serviceCost>
+<type>OL</type>
+<serviceInterval>4</serviceInterval>
+<nextDue>1249.0 Hours</nextDue>
+<intervalUOM>Hours</intervalUOM>
+<vendor>03Reg17</vendor>
+<city>Cary</city>
+<state>NC</state>
+<performedDate>2017-04-17 00:00</performedDate>
+<performedMilesHours>1245</performedMilesHours>
+<currentReading>254785</currentReading>
+</service>
+</services>
+<equipmentFactors>
+<equipmentFactor>
+<type>Test2</type>
+<equipmentFactor>0.0</equipmentFactor>
+<factorUOM/>
+<fleetCode/>
+<settlementCode/>
+<revenueFactor>0.0</revenueFactor>
+<effectiveDate>2017-04-15 16:16</effectiveDate>
+</equipmentFactor>
+<equipmentFactor>
+<type>Test1</type>
+<equipmentFactor>0.0</equipmentFactor>
+<factorUOM/>
+<fleetCode/>
+<settlementCode/>
+<revenueFactor>0.0</revenueFactor>
+<effectiveDate>2017-04-13 16:16</effectiveDate>
+</equipmentFactor>
+</equipmentFactors>
+<devices>
+<device>
+<vendor>EZ</vendor>
+<deviceId>214</deviceId>
+<installDate>2017-04-17 00:00</installDate>
+<installerName/>
+<installerAddress/>
+<installerCity/>
+<installerState/>
+<installerPostalCode/>
+<batteryChangeDate/>
+</device>
+<device>
+<vendor>TM</vendor>
+<deviceId>1ABCD</deviceId>
+<installDate>2017-04-24 00:00</installDate>
+<installerName>JOby Jose</installerName>
+<installerAddress>1245, first st</installerAddress>
+<installerCity>Cary</installerCity>
+<installerState>NC</installerState>
+<installerPostalCode>27707</installerPostalCode>
+<batteryChangeDate>2017-06-19 00:00</batteryChangeDate>
+</device>
+</devices>
+<fleetEquipmentReference/>
+<activities>
+<activity>
+<assignedTo/>
+<completedDate>2017-06-12 00:00</completedDate>
+<name>21547KJU</name>
+<notes>Test Activity</notes>
+<percentComplete>70</percentComplete>
+<plannedDate>2017-06-14 00:00</plannedDate>
+<priority>M</priority>
+<required>true</required>
+<status>IP</status>
+<summary>Test Activity</summary>
+<type>UserUpdate</type>
+</activity>
+</activities>
+</fleetEquipment>
+</fleetEquipments>
+<freightForwarderMCNumber>36985</freightForwarderMCNumber>
+<hasContainerYard>true</hasContainerYard>
+<hasEDISupport>true</hasEDISupport>
+<hasHM232>false</hasHM232>
+<hasWharehousing>true</hasWharehousing>
+<hazmatClassDivisions>
+<String>1.4</String>
+<String>1.6</String>
+<String>2.2</String>
+<String>1.5</String>
+</hazmatClassDivisions>
+<hazmatClasses>
+<String>6</String>
+<String>3</String>
+<String>4</String>
+</hazmatClasses>
+<industrySectors>
+<industrySector>AG</industrySector>
+<industrySector>AU</industrySector>
+<industrySector>CH</industrySector>
+<industrySector>FA</industrySector>
+<industrySector>FO</industrySector>
+<industrySector>MA</industrySector>
+<industrySector>ME</industrySector>
+<industrySector>OT</industrySector>
+<industrySector>PP</industrySector>
+</industrySectors>
+<insurancePolicies>
+<insurancePolicy>
+<additionalInsured>true</additionalInsured>
+<agentEmail>test@test.com</agentEmail>
+<agentFax>615-867-5309</agentFax>
+<agentName>TEST AGENT</agentName>
+<agentPhone>615-867-5309</agentPhone>
+<certificateId>25487NJHY</certificateId>
+<certificateLevel>InsuranceCertificateLevelsCode1</certificateLevel>
+<confidence>L</confidence>
+<coverageAmount>100000.0</coverageAmount>
+<coverageDesc>CARGO</coverageDesc>
+<coverageId>1456</coverageId>
+<coverageType>CARGO</coverageType>
+<effectiveDate>2015-01-31 00:00</effectiveDate>
+<expirationDate>2016-01-31 00:00</expirationDate>
+<insCoversAllDrivers>true</insCoversAllDrivers>
+<insCoversAllVehicles>true</insCoversAllVehicles>
+<insuredCommodities>Test Commodity-IN</insuredCommodities>
+<insuredCommodityExclusion>Test Commodity-EX</insuredCommodityExclusion>
+<limit>100000.0000</limit>
+<limitType>Deductible</limitType>
+<maxLimit>5000</maxLimit>
+<policyNum>123456</policyNum>
+<status>Valid</status>
+<statusDate>2015-01-31 00:00</statusDate>
+<underwriter>AMERICAN NATIONAL LLOYDS INSURANCE COMPANY</underwriter>
+<unattachedClause>true</unattachedClause>
+<ownerOperatorClause>false</ownerOperatorClause>
+<additionalEquipments/>
+<amBestNumber>Rate101</amBestNumber>
+<amBestStrength>A</amBestStrength>
+<financialSize>X</financialSize>
+<details>
+<detail>1</detail>
+</details>
+</insurancePolicy>
+<insurancePolicy>
+<additionalInsured>true</additionalInsured>
+<agentEmail>test@agentmail.com</agentEmail>
+<agentFax/>
+<agentName>Test agent2</agentName>
+<agentPhone>534-145-3698</agentPhone>
+<certificateId>ID258</certificateId>
+<certificateLevel>InsuranceCertificateLevelsCode1</certificateLevel>
+<confidence>L</confidence>
+<coverageAmount>5.0</coverageAmount>
+<coverageDesc>Insurance</coverageDesc>
+<coverageId>3654</coverageId>
+<coverageType>EL</coverageType>
+<effectiveDate>2017-02-13 00:00</effectiveDate>
+<expirationDate>2017-02-22 00:00</expirationDate>
+<insCoversAllDrivers>false</insCoversAllDrivers>
+<insCoversAllVehicles>false</insCoversAllVehicles>
+<insuredCommodities/>
+<insuredCommodityExclusion/>
+<limit>LIMIT</limit>
+<limitType>Deductible</limitType>
+<maxLimit>6000</maxLimit>
+<policyNum>123546987</policyNum>
+<status>A</status>
+<statusDate>2017-02-13 00:00</statusDate>
+<underwriter>InsuranceUnderwritersCode2</underwriter>
+<unattachedClause>false</unattachedClause>
+<ownerOperatorClause>true</ownerOperatorClause>
+<additionalEquipments/>
+<amBestNumber>254</amBestNumber>
+<amBestStrength>32</amBestStrength>
+<financialSize>InsurFinSizeCode2</financialSize>
+<details>
+<detail>2</detail>
+</details>
+</insurancePolicy>
+</insurancePolicies>
+<intrastateDotNumber>6947</intrastateDotNumber>
+<intrastateState>NC</intrastateState>
+<enterpriseLanes/>
+<lastSentToTMS/>
+<modes>
+<mode>Bulk</mode>
+<mode>Intermodal</mode>
+<mode>LTL Reefer</mode>
+</modes>
+<name>Master Automate</name>
+<onTimeEventGoal>99.9</onTimeEventGoal>
+<override>false</override>
+<overSizeFactor>Yes</overSizeFactor>
+<quoteProcess>
+<emailFrom>tms@gmail.com</emailFrom>
+<emailTo>todd.bucher@mercurygate.com</emailTo>
+<emailBody>Chobani is requesting a quote on the attached load. &amp;nbsp;This tender will expire if not accepted in 60 minutes.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thank you,&lt;/div&gt;</emailBody>
+<type>Email</type>
+</quoteProcess>
+<references>
+<reference>
+<type>SetUpDate</type>
+<value>2016-09-19 04:12</value>
+<description/>
+</reference>
+<reference>
+<type>CPRRating</type>
+<value>Modest Risk</value>
+<description/>
+</reference>
+<reference>
+<type>InsuranceCert</type>
+<value>AUTOMOBILE LIABILITY - http://24.119.144.15:8080/OnboardingPreProd/CoreCarriers/InsurancePDF.aspx?i=1&amp;t=yNZV6JPwlgM=</value>
+<description>ExpirationDate:11/30/2016 12:00:00 AM</description>
+</reference>
+<reference>
+<type>InsuranceCert</type>
+<value>AUTOMOBILE LIABILITY - http://24.119.144.15:8080/OnboardingPreProd/CoreCarriers/InsurancePDF.aspx?i=1&amp;t=yNZV6JPwlgM=</value>
+<description>ExpirationDate:11/30/2016 12:00:00 AM</description>
+</reference>
+<reference>
+<type>ITS</type>
+<value>1639</value>
+<description/>
+</reference>
+</references>
+<resources>
+<companyDriverCount>29</companyDriverCount>
+<contractDriverCount>24</contractDriverCount>
+<employeeCount>27</employeeCount>
+<equipmentClass>22</equipmentClass>
+<equipmentType/>
+<flatbedTypes/>
+<generalCommodities>Test</generalCommodities>
+<handleTypes/>
+<hasDriverCells>true</hasDriverCells>
+<hasLongLoads>true</hasLongLoads>
+<hasOverweightLoads>true</hasOverweightLoads>
+<hasResponsibleCare>true</hasResponsibleCare>
+<hasWideLoads>true</hasWideLoads>
+<ownerOperator>true</ownerOperator>
+<powerUnitCount/>
+<powerUnitType/>
+<referTypes/>
+<satelliteTrackingNum>25</satelliteTrackingNum>
+<specialServices>23</specialServices>
+<teamCount>28</teamCount>
+<trailerCount/>
+<truckCode/>
+<truckCount/>
+<truckType/>
+<vanTypes/>
+<workersCompensation>false</workersCompensation>
+</resources>
+<safety>
+<accidents>2</accidents>
+<accidentsPerMillionMiles>1</accidentsPerMillionMiles>
+<accidentsPerTruck>3</accidentsPerTruck>
+<conditionalApprovedDate>2017-02-28 00:00</conditionalApprovedDate>
+<conditionalReceivedDate>2017-02-28 00:00</conditionalReceivedDate>
+<controlledSubstancesAlcoholBasicAlert>6</controlledSubstancesAlcoholBasicAlert>
+<controlledSubstancesAlcoholPercentile>6.0</controlledSubstancesAlcoholPercentile>
+<controlledSubstancesAlcoholRoadsideAlert>6</controlledSubstancesAlcoholRoadsideAlert>
+<controlledSubstancesAlcoholSeriousViolation>6</controlledSubstancesAlcoholSeriousViolation>
+<driverFitnessBasicAlert>5</driverFitnessBasicAlert>
+<driverFitnessPercentile>5.0</driverFitnessPercentile>
+<driverFitnessRoadsideAlert>5</driverFitnessRoadsideAlert>
+<driverFitnessSeriousViolation>5</driverFitnessSeriousViolation>
+<driverInspectionCount>4</driverInspectionCount>
+<driverOOS/>
+<driverOOSNational/>
+<driverOutOfService>3</driverOutOfService>
+<fatalIncidentCount>2</fatalIncidentCount>
+<fatiguedDrivingBasicAlert>4</fatiguedDrivingBasicAlert>
+<fatiguedDrivingPercentile>4.0</fatiguedDrivingPercentile>
+<fatiguedDrivingRoadsideAlert>4</fatiguedDrivingRoadsideAlert>
+<fatiguedDrivingSeriousViolation>4</fatiguedDrivingSeriousViolation>
+<hazardousMaterialBasicAlert>8</hazardousMaterialBasicAlert>
+<hazardousMaterialPercentile>8.0</hazardousMaterialPercentile>
+<hazardousMaterialRoadsideAlert>8</hazardousMaterialRoadsideAlert>
+<hazardousMaterialSeriousViolation>8</hazardousMaterialSeriousViolation>
+<crashIndicatorBasicAlert>9</crashIndicatorBasicAlert>
+<crashIndicatorPercentile>9.0</crashIndicatorPercentile>
+<crashIndicatorRoadsideAlert>9</crashIndicatorRoadsideAlert>
+<crashIndicatorSeriousViolation>9</crashIndicatorSeriousViolation>
+<hazmatCertificateExpiration>2017-02-24 00:00</hazmatCertificateExpiration>
+<hazmatCertified>false</hazmatCertified>
+<hazmatDriverCount/>
+<hazmatInspectionCount>4</hazmatInspectionCount>
+<hazmatOOS/>
+<hazmatOOSNational/>
+<hazmatOutOfService>3</hazmatOutOfService>
+<injuryIncidentCount>4</injuryIncidentCount>
+<miles>12000</miles>
+<powerUnits>5</powerUnits>
+<saferStatCategory/>
+<saferStatScore/>
+<safetyRating>U</safetyRating>
+<safetyRatingDate>2016-01-25 00:00</safetyRatingDate>
+<revisionType>Revision Test</revisionType>
+<safetyRevisionDate>2017-03-02 00:00</safetyRevisionDate>
+<mileage>15600</mileage>
+<mileageFormDate>2017-02-27 00:00</mileageFormDate>
+<mileageYear>2006</mileageYear>
+<seaRatings/>
+<totalIncidentCount>14</totalIncidentCount>
+<totalInspectionCount/>
+<towingIncidentCount>8</towingIncidentCount>
+<unsafeDrivingBasicAlert>3</unsafeDrivingBasicAlert>
+<unsafeDrivingPercentile>3.0</unsafeDrivingPercentile>
+<unsafeDrivingRoadsideAlert>3</unsafeDrivingRoadsideAlert>
+<unsafeDrivingSeriousViolation>3</unsafeDrivingSeriousViolation>
+<vehicleInspectionCount>4</vehicleInspectionCount>
+<vehicleMaintenanceBasicAlert>7</vehicleMaintenanceBasicAlert>
+<vehicleMaintenancePercentile>7.0</vehicleMaintenancePercentile>
+<vehicleMaintenanceRoadsideAlert>7</vehicleMaintenanceRoadsideAlert>
+<vehicleMaintenanceSeriousViolation>7</vehicleMaintenanceSeriousViolation>
+<vehicleMilesTraveled>1600</vehicleMilesTraveled>
+<vehicleOOS/>
+<vehicleOOSNational/>
+<safetyNationalHazmatOOS>3</safetyNationalHazmatOOS>
+</safety>
+<nonUsSafeties>
+<nonUsSafety>
+<status>I</status>
+<issuedBy>B</issuedBy>
+<entryDate>2017-04-13 00:00</entryDate>
+<effectiveDate>2017-04-10 00:00</effectiveDate>
+<expirationDate>2020-04-13 00:00</expirationDate>
+</nonUsSafety>
+<nonUsSafety>
+<status>C</status>
+<issuedBy>C</issuedBy>
+<entryDate>2017-04-13 00:00</entryDate>
+<effectiveDate>2017-04-13 00:00</effectiveDate>
+<expirationDate>2025-04-13 00:00</expirationDate>
+</nonUsSafety>
+</nonUsSafeties>
+<safetyPlan>false</safetyPlan>
+<scac>226688</scac>
+<feedbackCount/>
+<feedbackRating/>
+<services>
+<service>BO</service>
+<service>24HD</service>
+<service>BA</service>
+<service>WG</service>
+</services>
+<status>A</status>
+<statusCheckProcess>
+<emailFrom>From@email.com</emailFrom>
+<emailSubject>Subject Email</emailSubject>
+<emailTo>To@email.com</emailTo>
+<emailBody>Test Case creation test</emailBody>
+<enabled>true</enabled>
+</statusCheckProcess>
+<statusReason>S</statusReason>
+<tabReviews/>
+<technologyComments>Technology comments</technologyComments>
+<technologyDirectConnect>No</technologyDirectConnect>
+<technologyVan>Yes</technologyVan>
+<technologyVanPhone>658-784-7845</technologyVanPhone>
+<tenderProcess>
+<autoAccept>true</autoAccept>
+<earliestTenderTime/>
+<emailBody>Test Body</emailBody>
+<emailFrom>test.com</emailFrom>
+<emailTo>todd.bucher@mercurygate.com</emailTo>
+<latestTenderTime/>
+<permitTenderRevoke>true</permitTenderRevoke>
+<proSequenceName>4578</proSequenceName>
+<tenderTimeZone>Eastern</tenderTimeZone>
+<holidayCalendar>HolidayCalendar</holidayCalendar>
+<type>none</type>
+</tenderProcess>
+<url>Test@test.com</url>
+<workflowStatus>SentToTMS</workflowStatus>
+</carrier>
+</carriers>
+</mercurygate>
